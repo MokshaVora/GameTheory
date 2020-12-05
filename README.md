@@ -18,9 +18,13 @@ python continous_simulator.py
 // The following should be provided as input to run the above two files :
 
 Which team's winning probability the market maker wants to predict?: MI
+
 Enter the number of won matches: 9
+
 Enter the number of total matches: 14
+
 Enter the current position of the team on points table: 1 
+
 Enter the worst case loss market maker can afford: 35
 
 
