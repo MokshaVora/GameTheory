@@ -11,3 +11,6 @@ python simulator.py
 
 python continous_simulator.py
 
+// During the simulation , the database of user is present in this file
+
+user_info.csv
